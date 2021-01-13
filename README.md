@@ -1,4 +1,4 @@
-#<center>Git Explore</center>
+# <center>Git Explore</center>
 
 # Getting Started with Create React App
 
