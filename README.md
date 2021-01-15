@@ -1,4 +1,58 @@
-# <center>Git Explore</center>
+![Logo do Markdown](imagesGit/img1.png)
+
+##### <center> Git Explore </center>
+<hr>
+
+# Sobre o Projeto
+
+Este projeto adiciona repositórios do github a uma lista personalizada sua, onde é possível visualizar stars, Forks, Issues.
+
+![Logo do Markdown](imagesGit/tela.png)
+
+# Estrutura de Arquivos
+### A estrutura de arquivos está da seguinte maneira:
+
+git-explore
+├── src/
+│   ├── styles/
+│   │   └── global.ts
+│   ├── assets/
+│   │   ├── githubBackground.svg
+│   │   └── logo.svg
+│   ├── pages/
+│   │   ├── Dashbord/
+│   │   │   ├── index.tsx
+│   │   │   └── styles.ts
+│   │   └── Repository/
+│   │       ├── index.tsx
+│   │       └── styles.ts
+│   ├── services/
+│   │   └── api.js
+│   ├── store/
+│   │   ├── ducks/
+│   │   │   └── index.js
+│   │   ├── sagas/
+│   │   │   └── index.js
+│   │   └── index.js
+│   ├── index.js
+│   └── routes/
+│       └──index.tsx
+├── .editorconfig
+├── .eslintrc.json
+├── .gitignore
+├── package.json
+└── README.md
+
+# Contribuição
+
+Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito apreciada.
+
+  1. Faça um Fork do projeto
+  2. Crie uma Branch para sua Feature (git checkout -b . feature/FeatureIncrivel)
+  3. Adicione suas mudanças (git add .)
+  4. Comite suas mudanças (git commit -m 'Adicionando 6.uma Feature incrível!)
+  5. Faça o Push da Branch (git push origin feature/FeatureIncrivel)
+  6. Abra um Pull Request
 
 # Getting Started with Create React App
 
