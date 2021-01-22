@@ -9,42 +9,6 @@ Este projeto adiciona repositórios do github a uma lista personalizada sua, ond
 
 ![Logo do Markdown](imagesGit/tela1.png)
 
-# Estrutura de Arquivos
-### A estrutura de arquivos está da seguinte maneira:
-
-  git-explore
-  
-  ├── src/
-  │   ├── styles/
-  
-  │   │   └── global.ts
-  
-  │   ├── assets/
-  │   │   ├── githubBackground.svg
-  │   │   └── logo.svg
-  │   ├── pages/
-  │   │   ├── Dashbord/
-  │   │   │   ├── index.tsx
-  │   │   │   └── styles.ts
-  │   │   └── Repository/
-  │   │       ├── index.tsx
-  │   │       └── styles.ts
-  │   ├── services/
-  │   │   └── api.js
-  │   ├── store/
-  │   │   ├── ducks/
-  │   │   │   └── index.js
-  │   │   ├── sagas/
-  │   │   │   └── index.js
-  │   │   └── index.js
-  │   ├── index.js
-  │   └── routes/
-  │       └──index.tsx
-  ├── .editorconfig
-  ├── .eslintrc.json
-  ├── .gitignore
-  ├── package.json
-  └── README.md
 
 # Contribuição
 
