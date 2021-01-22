@@ -15,7 +15,6 @@ Este projeto adiciona repositórios do github a uma lista personalizada sua, ond
   git-explore
   
   ├── src/
-  
   │   ├── styles/
   
   │   │   └── global.ts
