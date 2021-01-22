@@ -13,9 +13,13 @@ Este projeto adiciona repositórios do github a uma lista personalizada sua, ond
 ### A estrutura de arquivos está da seguinte maneira:
 
   git-explore
+  
   ├── src/
+  
   │   ├── styles/
+  
   │   │   └── global.ts
+  
   │   ├── assets/
   │   │   ├── githubBackground.svg
   │   │   └── logo.svg
